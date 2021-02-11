@@ -1,4 +1,4 @@
-# ULX3SChase
+# ULX3S-Chase
 
 This is a simple LED chasing program for the ULX-S3 FPGA development board. It relies heavily on the work of DoctorWkt [available on GitHub](https://github.com/DoctorWkt/ULX3S-Blinky/). 
 
